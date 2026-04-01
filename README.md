@@ -1,5 +1,5 @@
 # Prompt-Injection-Guardrails-Evluation 
-(baseline vs. system-level vs. model-level)
+baseline vs. system-level vs. model-level
 
 Dataset：xTRam1/safe-guard-prompt-injection, walledai/XSTest
 

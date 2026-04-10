@@ -89,3 +89,21 @@ We evaluate performance using the following metrics:
 3. Llama-1B (LLM-based guardrail) achieves the lowest ASR but suffers from extremely high FRR, making it impractical in real-world applications.
 
 4. Strong alignment in model-level defenses can lead to over-refusal, referred to as the "Alignment & Defense Tax".
+
+## Getting Started
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### Data Construction
+```bash
+cd src
+python data_generation.py
+python convert.py
+```
+### Run Evaluation
+```bash
+python main.py
+```
+
+

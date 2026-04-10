@@ -16,10 +16,10 @@ We benchmark four system-level guardrail architectures integrated with a strong 
 
 The following guardrails are evaluated:
 
-- Baseline: Llama-3-8B-Instruct (no guardrail)
-- Regex: Rule-based deterministic filtering
-- DeBERTa: Transformer-based binary classifier
-- Llama-3.2-1B: Local LLM-as-judge (discriminative)
+- Baseline: [Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct)  
+- Regex: [Rule-based deterministic filtering](https://www.npmjs.com/package/openclaw-defender?ref=pkgstats.com)
+- DeBERTa: [Transformer-based binary classifier](https://huggingface.co/protectai/deberta-v3-base-prompt-injection)  
+- Llama-3.2-1B: [Local LLM-as-judge (discriminative)](https://huggingface.co/aditya02acharya/llama-3.2-1B-prompt-injection-merged)  
 - GPT-4o-mini: API-based LLM-as-judge
 
 ## Dataset

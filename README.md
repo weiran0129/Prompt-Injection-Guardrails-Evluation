@@ -77,7 +77,7 @@ We evaluate performance using the following metrics:
 | Llama-1B          | 0.873    | 0.880     | 0.974  | 0.925 | 2.6%   | 53.0% | 0.627       |
 | GPT-4o-mini       | 0.899    | 0.993     | 0.880  | 0.933 | 12.0%  | 2.5%  | 1.990       |
 <div margin: 20px 0;>
-  <img src="src/visual.png" alt="Jump Shot Badge" width="92" height="104" style="margin: 0 5px;">
+  <img src="src/visual.png" alt="ASR Histogram">
 </div>
 ## Key Findings
 

@@ -76,7 +76,9 @@ We evaluate performance using the following metrics:
 | DeBERTa           | 0.885    | 0.994     | 0.861  | 0.923 | 13.9%  | 2.0%  | 1.676       |
 | Llama-1B          | 0.873    | 0.880     | 0.974  | 0.925 | 2.6%   | 53.0% | 0.627       |
 | GPT-4o-mini       | 0.899    | 0.993     | 0.880  | 0.933 | 12.0%  | 2.5%  | 1.990       |
-
+<div margin: 20px 0;>
+  <img src="HoopScout/Badges/Jumpshot.PNG" alt="Jump Shot Badge" width="92" height="104" style="margin: 0 5px;">
+</div>
 ## Key Findings
 
 1. Regex-based guardrails provide minimal improvement over baseline and are insufficient against sophisticated attacks.

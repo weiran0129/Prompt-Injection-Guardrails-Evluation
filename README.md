@@ -79,6 +79,7 @@ We evaluate performance using the following metrics:
 <div margin: 20px 0;>
   <img src="src/visual.png" alt="ASR Histogram">
 </div>
+
 ## Key Findings
 
 1. Regex-based guardrails provide minimal improvement over baseline and are insufficient against sophisticated attacks.

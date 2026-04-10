@@ -26,8 +26,8 @@ The following guardrails are evaluated:
 
 We construct a benchmark dataset of 1,000 samples from two public sources:
 
-- neuralchemy/Prompt-injection-dataset
-- JasperLS/prompt-injections
+- [neuralchemy/Prompt-injection-dataset](https://huggingface.co/datasets/neuralchemy/Prompt-injection-dataset)
+- [JasperLS/prompt-injections](https://huggingface.co/datasets/JasperLS/prompt-injections)
 
 ### Distribution
 
